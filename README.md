@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
+  
   ![Student Badge](https://img.shields.io/badge/Role-Student-blueviolet?style=flat-square)
+  
   ![Course Badge](https://img.shields.io/badge/Course-Software%20Engineering-blue?style=flat-square)
 </p>
 
