@@ -50,7 +50,7 @@ Each folder contains code, screenshots, or any additional notes I worked on.
 ---
 
 ## 🌟 Quote
-> "Learning never exhausts the mind, it only fuels it."
+> “Knowledge is my compass, and curiosity is my fuel.”🔍
 
 ---
 
