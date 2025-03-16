@@ -34,9 +34,8 @@ This repository reflects my dedication to the Software Engineering course.
 Here you'll find all my lab submissions, organized clearly by topics and tasks.  
 Each folder contains code, screenshots, or any additional notes I worked on.
 
-**Example Structure:**
 ```
-/Labs
+ Labs
    ├── Lab1/
    │   ├── solution.py
    │   └── screenshot.png
