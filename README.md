@@ -43,8 +43,8 @@ Each folder contains code, screenshots, or any additional notes I worked on.
    │   ├── solution.py
    │   └── screenshot.png
    ├── Lab2/
-   │   ├── solution.pdf
-   │   └── notes.txt
+   │   ├── [Lab2.pdf](https://github.com/user-attachments/files/19278660/Lab2.pdf)
+   │ 
 ```
 
 ---
