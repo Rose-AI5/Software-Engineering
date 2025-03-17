@@ -37,15 +37,15 @@ This repository reflects my dedication to the Software Engineering course.
 Here you'll find all my lab submissions, organized clearly by topics and tasks.  
 Each folder contains code, screenshots, or any additional notes I worked on.
 
-```
+
  Labs
    ├── Lab1/
    │   ├── solution.py
    │   └── screenshot.png
    ├── Lab2/
-   │   ├── [Lab2.pdf](https://github.com/user-attachments/files/19278660/Lab2.pdf)
+   │   ├── ![Lab2.pdf](https://github.com/user-attachments/files/19278660/Lab2.pdf)
    │ 
-```
+
 
 ---
 
