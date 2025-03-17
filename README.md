@@ -39,12 +39,11 @@ Each folder contains code, screenshots, or any additional notes I worked on.
 
 
  Labs
-   ├── Lab1/
-   │   ├── solution.py
-   │   └── screenshot.png
-   ├── Lab2/
-   │   ├── ![Lab2.pdf](https://github.com/user-attachments/files/19278660/Lab2.pdf)
-   │ 
+   Lab1:
+   Lab2: 
+   Lab3:
+   Lab4:
+   
 
 
 ---
