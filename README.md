@@ -39,7 +39,7 @@ Each folder contains code, screenshots, or any additional notes I worked on.
 
 
  Labs
-   Lab1:
+   Lab1:![Image](https://github.com/user-attachments/assets/85a9ffb9-2e5c-4af9-aacb-2f1afb152127)
    Lab2: 
    Lab3:
    Lab4:
