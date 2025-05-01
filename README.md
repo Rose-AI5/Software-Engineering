@@ -29,23 +29,7 @@ This repository reflects my dedication to the Software Engineering course.
 ## 📁 Repository Contents
 - Lab tasks  
 - Notes or any helpful resources  
-
-
----
-
-## 📂 My Lab Solutions
-Here you'll find all my lab submissions, organized clearly by topics and tasks.  
-Each folder contains code, screenshots, or any additional notes I worked on.
-
-
- Labs
-   Lab1:![Image](https://github.com/user-attachments/assets/85a9ffb9-2e5c-4af9-aacb-2f1afb152127)
-   Lab2: 
-   Lab3:
-   Lab4:
    
-
-
 ---
 
 ## 🌟 Quote
